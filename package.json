@@ -73,7 +73,7 @@
     "@types/react-test-renderer": "^16.0.1",
     "@types/storybook__addon-actions": "^3.4.2",
     "@types/storybook__addon-centered": "^3.3.2",
-    "@types/storybook__addon-info": "^4.1.0",
+    "@types/storybook__addon-info": "^5.2.4",
     "@types/storybook__addon-knobs": "^4.0.3",
     "@types/storybook__react": "^4.0.1",
     "@types/styled-components": "^5.1.7",
