@@ -57,7 +57,7 @@
     "@babel/preset-react": "^7.0.0",
     "@dump247/storybook-state": "^1.5.2",
     "@storybook/addon-actions": "^5.0.5",
-    "@storybook/addon-backgrounds": "^5.0.5",
+    "@storybook/addon-backgrounds": "^6.5.9",
     "@storybook/addon-centered": "^5.0.1",
     "@storybook/addon-knobs": "^5.0.5",
     "@storybook/addons": "^5.0.6",
