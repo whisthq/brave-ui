@@ -2,12 +2,6 @@
 
 This repository is Whist's fork of `brave-ui`, with a few modifications. We forked `brave-ui` so that we could build Whist integrated within Chromium on top of Brave, to benefit from Brave's features and development pipeline.
 
-Note that Dependabot security warnings will frequently appear on this project as it is a large Node project. Given that we frequently rebase from upstream Brave, we prefer to let them handle Dependabot/security patches, and will generally close those Dependabot security warnings. We keep them running in case there is a serious security flaw that we must tackle ourselves.
-
-## Whist Changelog
-
-None so far. Once we make modifications to this repository, we will list them here.
-
 ## Development
 
 Before building or modifying the code, you should pull the latest changes from the public [`brave/brave-ui`](https://github.com/brave/brave-ui) repository that this repository is forked from. To setup your repository, follow these steps:
@@ -49,7 +43,7 @@ git rebase upstream/master
 # git rebase upstream/<desired branch> for other upstream branches
 ```
 
-3. Resolve merge conflicts, if any arise, and push to the Whist Brave Core repository
+3. Resolve merge conflicts, if any arise, and push to the Whist Brave UI repository
 
 ```
 git push origin <current branch>
